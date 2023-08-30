@@ -1,5 +1,5 @@
 'use client'
-import Search from '@/components/search/search'
+import Search from '@/components/search/Search'
 import CurrentWeather from '@/components/currentWeather/CurrentWeather'
 import Forecast from '@/components/forecast/Forecast'
 import Footer from '@/components/Footer/Footer'

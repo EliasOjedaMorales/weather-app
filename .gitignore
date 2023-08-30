@@ -36,4 +36,3 @@ next-env.d.ts
 
 #Api key weather
 .env.local
-api.js

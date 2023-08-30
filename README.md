@@ -8,4 +8,4 @@ Ademas de el pronostico de las proximas 30 horas. Mostrando datos como :
   ·Nubosidad del dia (en %)
   ·Nivel del mar (en metros
 
-La app esta hecha en Next.JS, utiliza Tailwind CSS, iconos de React-icons, api de OpenWeather y la api de geo
+La app esta hecha en Next.JS, utiliza Tailwind CSS, iconos de React-icons, api de OpenWeather y la api de geodb citties de Apirapi

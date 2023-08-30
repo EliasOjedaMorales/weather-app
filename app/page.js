@@ -25,7 +25,7 @@ export default function Home () {
       })
       .catch((error) => { console.log(error) })
   }
-  console.log(forecast)
+  // console.log(forecast)
   return (
     <main className='min-h-screen grid grid-rows-[auto_1fr_auto]  justify-items-center'>
       <Search onSearchChange={handleOnSearchChange} />
